@@ -1,13 +1,13 @@
 # English-Name-Generator
 a generator for English name
 
-#Representation:
+# Representation:
 
 ![alt text](https://raw.githubusercontent.com/moenova/English-Name-Generator/master/img/begin.jpg)
 ![alt text](https://raw.githubusercontent.com/moenova/English-Name-Generator/master/img/end.jpg)
 
 
-#Download
+# Download
 you need download lzdb as support library for this project
 lzdb: lazy database
 
