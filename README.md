@@ -1,6 +1,12 @@
 # English-Name-Generator
-
 a generator for English name
+
+#Representation:
+![alt text](https://raw.githubusercontent.com/moenova/Japanese-volcabulary-memory-helper/master/img/begin.jpg)
+![alt text](https://raw.githubusercontent.com/moenova/Japanese-volcabulary-memory-helper/master/img/end.jpg)
+
+
+#Download
 you need download lzdb as support library for this project
 lzdb: lazy database
 
