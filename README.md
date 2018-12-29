@@ -2,8 +2,8 @@
 a generator for English name
 
 #Representation:
-![alt text](https://raw.githubusercontent.com/moenova/Japanese-volcabulary-memory-helper/master/img/begin.jpg)
-![alt text](https://raw.githubusercontent.com/moenova/Japanese-volcabulary-memory-helper/master/img/end.jpg)
+![alt text](https://raw.githubusercontent.com/moenova/English-Name-Generator/master/img/begin.jpg)
+![alt text](https://raw.githubusercontent.com/moenova/English-Name-Generator/master/img/end.jpg)
 
 
 #Download
