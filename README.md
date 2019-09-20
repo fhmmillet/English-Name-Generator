@@ -11,7 +11,7 @@ a generator for English name
 # Download
 you need download lzdb as support library for this project
 lzdb: lazy database
-
+```
 if you use pip:
   if you don't have lzpy:
     >>> pip install lzpy
@@ -19,7 +19,7 @@ if you use pip:
     >>> pip install --upgrade lzpy
 else:
   goto https://pypi.org/project/lzpy/
-  
+```
 
 Attention:
 1. lzpy is not finished yet but has full of functions that you can use.
@@ -31,7 +31,7 @@ https://docs.google.com/document/d/1tVRnCeYv3HvovK7V4Kn4B88EiWz5fmKiA_FgrsXdAAk/
 # 英文名字生成器
 需要下载lzdb library来支持这个程序运行
 lzdb: lazy database（懒人数据库）
-
+```
 if 你用python pip:
   if 你没有 lzpy:
     >>> pip install lzpy
@@ -39,7 +39,7 @@ if 你用python pip:
     >>> pip install --upgrade lzpy
 else:
   到这个网址 https://pypi.org/project/lzpy/
-  
+```  
 
 注意:
 1. lzpy 没有完成，但是包含了大部分可用功能
