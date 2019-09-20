@@ -9,8 +9,8 @@ a generator for English name
 
 
 # Download
-you need download lzdb as support library for this project
-lzdb: lazy database
+you need download lzdy as support library for this project
+lzpy: lazy python
 ```
 if you use pip:
   if you don't have lzpy:
@@ -23,14 +23,14 @@ else:
 
 Attention:
 1. lzpy is not finished yet but has full of functions that you can use.
-2. I haven't got time to write a full API and sample code for lzdb.
+2. I haven't got time to write a full API and sample code for lzpy.
 3. to check a sudo-sample code goto: 
 https://docs.google.com/document/d/1tVRnCeYv3HvovK7V4Kn4B88EiWz5fmKiA_FgrsXdAAk/edit
 
 
 # 英文名字生成器
-需要下载lzdb library来支持这个程序运行
-lzdb: lazy database（懒人数据库）
+需要下载lzpy library来支持这个程序运行
+lzpy: lazy database（懒人数据库）
 ```
 if 你用python pip:
   if 你没有 lzpy:
